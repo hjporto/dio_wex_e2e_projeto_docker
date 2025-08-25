@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev\\DockerAspnetMysqlDio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\dev\\dockeraspnetmysqldio\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9AC67B-B42D-4604-AF14-215F0382E641}|DockerAspnetMysqlDio\\DockerAspnetMysqlDio.csproj|c:\\dev\\dockeraspnetmysqldio\\dockeraspnetmysqldio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B9AC67B-B42D-4604-AF14-215F0382E641}|DockerAspnetMysqlDio\\DockerAspnetMysqlDio.csproj|solutionrelative:dockeraspnetmysqldio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9AC67B-B42D-4604-AF14-215F0382E641}|DockerAspnetMysqlDio\\DockerAspnetMysqlDio.csproj|c:\\dev\\dockeraspnetmysqldio\\dockeraspnetmysqldio\\dockeraspnetmysqldio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0B9AC67B-B42D-4604-AF14-215F0382E641}|DockerAspnetMysqlDio\\DockerAspnetMysqlDio.csproj|solutionrelative:dockeraspnetmysqldio\\dockeraspnetmysqldio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\dev\\dockeraspnetmysqldio\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9AC67B-B42D-4604-AF14-215F0382E641}|DockerAspnetMysqlDio\\DockerAspnetMysqlDio.csproj|c:\\dev\\dockeraspnetmysqldio\\dockeraspnetmysqldio\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0B9AC67B-B42D-4604-AF14-215F0382E641}|DockerAspnetMysqlDio\\DockerAspnetMysqlDio.csproj|solutionrelative:dockeraspnetmysqldio\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9AC67B-B42D-4604-AF14-215F0382E641}|DockerAspnetMysqlDio\\DockerAspnetMysqlDio.csproj|c:\\dev\\dockeraspnetmysqldio\\dockeraspnetmysqldio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B9AC67B-B42D-4604-AF14-215F0382E641}|DockerAspnetMysqlDio\\DockerAspnetMysqlDio.csproj|solutionrelative:dockeraspnetmysqldio\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9AC67B-B42D-4604-AF14-215F0382E641}|DockerAspnetMysqlDio\\DockerAspnetMysqlDio.csproj|c:\\dev\\dockeraspnetmysqldio\\dockeraspnetmysqldio\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9AC67B-B42D-4604-AF14-215F0382E641}|DockerAspnetMysqlDio\\DockerAspnetMysqlDio.csproj|solutionrelative:dockeraspnetmysqldio\\models\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9AC67B-B42D-4604-AF14-215F0382E641}|DockerAspnetMysqlDio\\DockerAspnetMysqlDio.csproj|c:\\dev\\dockeraspnetmysqldio\\dockeraspnetmysqldio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9AC67B-B42D-4604-AF14-215F0382E641}|DockerAspnetMysqlDio\\DockerAspnetMysqlDio.csproj|solutionrelative:dockeraspnetmysqldio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\dev\\DockerAspnetMysqlDio\\DockerAspnetMysqlDio\\appsettings.json",
+              "RelativeDocumentMoniker": "DockerAspnetMysqlDio\\appsettings.json",
+              "ToolTip": "C:\\dev\\DockerAspnetMysqlDio\\DockerAspnetMysqlDio\\appsettings.json",
+              "RelativeToolTip": "DockerAspnetMysqlDio\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-08T05:04:46.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\dev\\DockerAspnetMysqlDio\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\dev\\DockerAspnetMysqlDio\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-08-08T04:56:57.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "docker-compose",
+              "DocumentMoniker": "C:\\dev\\DockerAspnetMysqlDio\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\dev\\DockerAspnetMysqlDio\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-08T04:55:18.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DockerAspnetMysqlDio.csproj",
+              "DocumentMoniker": "C:\\dev\\DockerAspnetMysqlDio\\DockerAspnetMysqlDio\\DockerAspnetMysqlDio.csproj",
+              "RelativeDocumentMoniker": "DockerAspnetMysqlDio\\DockerAspnetMysqlDio.csproj",
+              "ToolTip": "C:\\dev\\DockerAspnetMysqlDio\\DockerAspnetMysqlDio\\DockerAspnetMysqlDio.csproj",
+              "RelativeToolTip": "DockerAspnetMysqlDio\\DockerAspnetMysqlDio.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-04T05:23:59.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\dev\\DockerAspnetMysqlDio\\DockerAspnetMysqlDio\\Dockerfile",
+              "RelativeDocumentMoniker": "DockerAspnetMysqlDio\\Dockerfile",
+              "ToolTip": "C:\\dev\\DockerAspnetMysqlDio\\DockerAspnetMysqlDio\\Dockerfile",
+              "RelativeToolTip": "DockerAspnetMysqlDio\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-04T05:24:35.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\dev\\DockerAspnetMysqlDio\\DockerAspnetMysqlDio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DockerAspnetMysqlDio\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\dev\\DockerAspnetMysqlDio\\DockerAspnetMysqlDio\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DockerAspnetMysqlDio\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-04T03:43:00.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev\\DockerAspnetMysqlDio\\DockerAspnetMysqlDio\\Program.cs",
+              "RelativeDocumentMoniker": "DockerAspnetMysqlDio\\Program.cs",
+              "ToolTip": "C:\\dev\\DockerAspnetMysqlDio\\DockerAspnetMysqlDio\\Program.cs",
+              "RelativeToolTip": "DockerAspnetMysqlDio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T02:22:16.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\dev\\DockerAspnetMysqlDio\\DockerAspnetMysqlDio\\Models\\Books.cs",
+              "RelativeDocumentMoniker": "DockerAspnetMysqlDio\\Models\\Books.cs",
+              "ToolTip": "C:\\dev\\DockerAspnetMysqlDio\\DockerAspnetMysqlDio\\Models\\Books.cs",
+              "RelativeToolTip": "DockerAspnetMysqlDio\\Models\\Books.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T23:35:50.513Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
